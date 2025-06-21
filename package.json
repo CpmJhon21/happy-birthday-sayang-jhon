@@ -1,0 +1,17 @@
+{
+  "name": "cpm-jhon-netlify",
+  "version": "1.0.0",
+  "description": "Ulang tahun web",
+  "scripts": {
+    "build": "cp -r public dist", 
+    "start": "serve dist"
+  },
+  "dependencies": {
+    "swiper": "^11.0.0",
+    "typeit": "^8.7.0",
+    "scrollreveal": "^4.0.9"
+  },
+  "devDependencies": {
+    "serve": "^14.0.1"
+  }
+}
